@@ -2,6 +2,12 @@
 Since 2010, I have worked in numerous startups, helping them grow from early-stage prototypes to fully functional products.
 Co-organizer and active member of the [BarcelonaJS](https://barcelonajs.com/) community since 2017.
 
+Links:
+
+- [React Workshops](https://cmdn.io/react-workshops) for European companies.
+- [Workshops](https://cmdn.io/workshops) for European companies.
+- [Retreats for Tech Teams](https://cmdn.io/retreats) in Catalonia
+
 
 ### Recent Posts:
 - [How to Debug Frontend Code: console.log vs breakpoints/debugger](https://cmdn.io/blog/how-to-debug-frontend-code-console-log-vs-breakpoints-debugger)
